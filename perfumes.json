@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Versace Eros Flame",
+    "marca": "Versace",
+    "tipo": "EDP",
+    "tamano": "100ml",
+    "precio": 1650,
+    "descripcion": "Fresco y potente.",
+    "imagen": "img/eros-flame.jpg"
+  },
+  {
+    "id": "p2",
+    "nombre": "Afnan 9PM",
+    "marca": "Afnan",
+    "tipo": "EDP",
+    "tamano": "100ml",
+    "precio": 650,
+    "descripcion": "Dulce y popular.",
+    "imagen": "img/afnan-9pm.jpg"
+  },
+  {
+    "id": "p3",
+    "nombre": "Lattafa Qaed Al Fursan",
+    "marca": "Lattafa",
+    "tipo": "EDP",
+    "tamano": "90ml",
+    "precio": 500,
+    "descripcion": "Arabe frutal.",
+    "imagen": "img/qaed-al-fursan.jpg"
+  },
+  {
+    "id": "p4",
+    "nombre": "Stronger With You Intensely",
+    "marca": "Emporio Armani",
+    "tipo": "EDP",
+    "tamano": "100ml",
+    "precio": 2200,
+    "descripcion": "Dulce y elegante.",
+    "imagen": "img/swy-intensely.jpg"
+  },
+  {
+    "id": "p5",
+    "nombre": "Valentino Born in Roma Intense",
+    "marca": "Valentino",
+    "tipo": "EDP",
+    "tamano": "100ml",
+    "precio": 2600,
+    "descripcion": "Moderno, dulce y nocturno.",
+    "imagen": "img/born-in-roma-intense.jpg"
+  },
+  {
+    "id": "p6",
+    "nombre": "Hugo Boss Just Different",
+    "marca": "Hugo Boss",
+    "tipo": "EDT",
+    "tamano": "125ml",
+    "precio": 1200,
+    "descripcion": "Fresco para diario.",
+    "imagen": "img/just-different.jpg"
+  },
+  {
+    "id": "p7",
+    "nombre": "Perry Ellis 360",
+    "marca": "Perry Ellis",
+    "tipo": "EDT",
+    "tamano": "100ml",
+    "precio": 700,
+    "descripcion": "Fresco y limpio.",
+    "imagen": "img/perry-ellis-360.jpg"
+  },
+  {
+    "id": "p8",
+    "nombre": "Lattafa Asad",
+    "marca": "Lattafa",
+    "tipo": "EDP",
+    "tamano": "100ml",
+    "precio": 650,
+    "descripcion": "Dulce-especiado, intenso.",
+    "imagen": "img/lattafa-asad.jpg"
+  },
+  {
+    "id": "p9",
+    "nombre": "Jean Paul Gaultier Le Male",
+    "marca": "JPG",
+    "tipo": "EDT",
+    "tamano": "125ml",
+    "precio": 2100,
+    "descripcion": "Clasico dulce-aromatico.",
+    "imagen": "img/le-male.jpg"
+  },
+  {
+    "id": "p10",
+    "nombre": "Dior Sauvage",
+    "marca": "Dior",
+    "tipo": "EDT",
+    "tamano": "100ml",
+    "precio": 2900,
+    "descripcion": "Fresco y versatil.",
+    "imagen": "img/sauvage.jpg"
+  },
+  {
+    "id": "p11",
+    "nombre": "Club de Nuit Intense Man",
+    "marca": "Armaf",
+    "tipo": "EDP",
+    "tamano": "105ml",
+    "precio": 900,
+    "descripcion": "Amaderado, muy conocido.",
+    "imagen": "img/cdn-intense.jpg"
+  },
+  {
+    "id": "p12",
+    "nombre": "Rasasi Hawas",
+    "marca": "Rasasi",
+    "tipo": "EDP",
+    "tamano": "100ml",
+    "precio": 1300,
+    "descripcion": "Fresco dulce, super cumplidor.",
+    "imagen": "img/rasasi-hawas.jpg"
+  }
+]
